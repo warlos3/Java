@@ -1,6 +1,6 @@
 package Maths;
 
-/*   	Esto es una prueba para realizar un commit		*/
+/*   Esto es una prueba para realizar un commit	y push	*/
 
 public class PalindromeNumber {
     public static void main(String[] args) {
